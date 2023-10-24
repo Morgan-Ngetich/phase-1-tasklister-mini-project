@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
   //Prevent the description from reloading the page
    taskForm.addEventListener('submit', function(event) {
     event.preventDefault()
-   
+                                                           
  
 
 
